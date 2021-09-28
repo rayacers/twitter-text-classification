@@ -48,3 +48,6 @@ python3 run.py
 ```
 in bash. The program will train BERT model as default and output the __submission.csv__ file in the output path. This file is our best prediction which can get 0.908 precision score on AICrowd. Note that if you want to use different training data, testing data, or output path, be sure to modify the variables in run_dl.py.
 
+#### Author
+
+Yi-Hsin Jen, Po-Jui Chang, Si-Ying Lai
